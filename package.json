@@ -1,0 +1,19 @@
+{
+  "name": "dream-fields",
+  "version": "0.0.8",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "process": "^0.11.10",
+    "@types/three": "^0.137.0",
+    "math-toolbox": "^1.12.0",
+    "three": "^0.137.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "postprocessing": "^6.26.3"
+  },
+  "__npminstall_done": "Wed Apr 27 2022 11:29:40 GMT+0800 (中国标准时间)",
+  "_from": "dream-fields@0.0.8",
+  "_resolved": "https://registry.npmmirror.com/dream-fields/-/dream-fields-0.0.7.tgz"
+}
